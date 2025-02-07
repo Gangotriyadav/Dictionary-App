@@ -30,12 +30,7 @@ API: Fetch word meanings from a dictionary API
 3️⃣ Click Search to get the definition.
 4️⃣ View pronunciation, synonyms, and antonyms (if available).
 
-📥 Installation
-1️⃣ Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/Gangotriyadav/Dictionary-App.git
-2️⃣ Open index.html in your browser.
+
+
 
